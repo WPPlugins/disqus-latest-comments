@@ -1,0 +1,31 @@
+.dsq-widget-user{
+	text-decoration:none;
+	display:block;
+	color:#00ABD1;
+}
+
+.dsq-widget-comment{
+	display:block;
+}
+
+.dsq-widget-meta a{
+	text-decoration:none;
+}
+
+.dsq-widget-item{
+	padding:5px;
+	background-color:#F0F6F7;
+}
+
+.dsq-widget-item p a{
+	text-decoration:none;color:#00ABD1;
+}
+
+.dsq-widget-item:hover{
+	border:1px solid #AFD7E0;
+	padding:4px;
+}
+
+.dsq-widget-avatar{
+	border-radius:100px;
+}
